@@ -76,7 +76,7 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
 ###  How to Run
 1.  Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/phishing-detection.git
+    git clone https://github.com/RLUDHIYA/PhishingDetectionModel.git
     ```
 2.  Install the required dependencies:
     ```bash
