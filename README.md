@@ -66,8 +66,6 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
 | **Random Forest** | *0.97* | *0.97* | *0.97* | *0.965282* | *0.992559* |
 
 
-*(Note: Please refer to the `results_df` output in the script for the exact metrics.)*
-
 #### Key Findings:
 *   **Random Forest** achieved the highest overall performance.
 *   **Confusion Matrices** were generated to analyze where models struggled (e.g., False Positives vs. False Negatives).
