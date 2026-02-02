@@ -64,7 +64,7 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
 |-------|----------|-----------|--------|----------|---------|
 | **XGBoost** | *0.9* | *0.9* | *0.9* | *0.907158* | *0.971249* |
 | **Random Forest** | *0.97* | *0.97* | *0.97* | *0.965282* | *0.992559* |
-| ... | ... | ... | ... | ... | ... |
+
 
 *(Note: Please refer to the `results_df` output in the script for the exact metrics.)*
 
