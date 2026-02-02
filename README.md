@@ -89,6 +89,9 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
     ```
 
 ---
+###Screenshots
+<img width="200" height="179" alt="{A780824E-EC80-44D0-AADE-B7841C1E32D4}" src="https://github.com/user-attachments/assets/e6ed9c12-9d74-4d01-adc9-6a213d0a349d" />
+
 
 ### Future Improvements
 *   **Hyperparameter Tuning:** Implementing `GridSearchCV` to optimize model parameters.
