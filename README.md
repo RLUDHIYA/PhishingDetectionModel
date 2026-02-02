@@ -62,15 +62,14 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
 
 | Model | Accuracy | Precision | Recall | F1-Score | ROC AUC |
 |-------|----------|-----------|--------|----------|---------|
-| **XGBoost** | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* |
-| **Random Forest** | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* |
-| **Decision Tree** | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* | *[Insert Val]* |
+| **XGBoost** | *0.9* | *0.9* | *0.9* | *0.907158* | *0.971249* |
+| **Random Forest** | *0.97* | *0.97* | *0.97* | *0.965282* | *0.992559* |
 | ... | ... | ... | ... | ... | ... |
 
 *(Note: Please refer to the `results_df` output in the script for the exact metrics.)*
 
 #### Key Findings:
-*   **[Model Name, e.g., XGBoost]** achieved the highest overall performance.
+*   **Random Forest** achieved the highest overall performance.
 *   **Confusion Matrices** were generated to analyze where models struggled (e.g., False Positives vs. False Negatives).
 *   Tree-based models generally performed better on this dataset compared to linear models.
 
@@ -96,13 +95,12 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
 ### Future Improvements
 *   **Hyperparameter Tuning:** Implementing `GridSearchCV` to optimize model parameters.
 *   **Feature Selection:** Using Recursive Feature Elimination (RFE) to reduce dimensionality.
-*   **Deployment:** Creating a Flask/Streamlit API to allow users to input a URL and get a prediction.
 
 ---
 
 ###  Author
 **Ludhiya Rose Giji**
-*   *Aspiring Data Analyst | Quality Technician*
+*   *Aspiring Data Analyst*
 *   [[[Link to LinkedIn Profile](https://www.linkedin.com/in/ludhiya-rose-giji-0a521b22a/)](https://www.linkedin.com/in/ludhiya-rose-giji-0a521b22a/)
   
 
