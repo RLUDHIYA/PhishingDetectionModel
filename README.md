@@ -99,7 +99,7 @@ The models were evaluated using **Accuracy, Precision, Recall, F1-Score, and ROC
 ###  Author
 **Ludhiya Rose Giji**
 *   *Aspiring Data Analyst*
-*   [[[Link to LinkedIn Profile](https://www.linkedin.com/in/ludhiya-rose-giji-0a521b22a/)](https://www.linkedin.com/in/ludhiya-rose-giji-0a521b22a/)
+*   [(Ludhiya LinkedIn)](https://www.linkedin.com/in/ludhiya-rose-giji-0a521b22a/)
   
 
 ---
